@@ -38,11 +38,11 @@ st.header("Flowcharts for Use Cases")
 
 st.subheader("1. Chat with Information")
 st.write("Below is the flowchart illustrating the process flow for the chatbot use case.")
-st.image("path_to_chatbot_flowchart.png", caption="Flowchart for Chatbot Use Case")
+#st.image("path_to_chatbot_flowchart.png", caption="Flowchart for Chatbot Use Case")
 
 st.subheader("2. Intelligent Search")
 st.write("Below is the flowchart illustrating the process flow for the resale price dashboard use case.")
-st.image("path_to_dashboard_flowchart.png", caption="Flowchart for Resale Price Dashboard Use Case")
+#st.image("path_to_dashboard_flowchart.png", caption="Flowchart for Resale Price Dashboard Use Case")
 
 # Conclusion
 st.header("Conclusion")
