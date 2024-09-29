@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 from decimal import Decimal
 import seaborn as sns
-import matplotlib.pyplot as plt
 import plotly.express as px
 
 
