@@ -11,8 +11,8 @@ st.set_page_config(
 )
 
 # Check if the password is correct.  
-#if not check_password():  
-#    st.stop()
+if not check_password():  
+    st.stop()
 # ------------------
 
 # Title
