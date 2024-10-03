@@ -9,7 +9,7 @@ with st.sidebar:
 # Project Overview
 st.header("Project Overview")
 st.write("""
-Welcome to the **HDB Flat Purchase Chatbot and Resale Price Dashboard**! Our project aims to simplify the process of buying and selling HDB flats in Singapore by providing users with an interactive chatbot for instant guidance and a comprehensive dashboard for analyzing resale prices. Whether you’re a first-time buyer or a seasoned investor, our tools are designed to make your property journey smoother and more informed.
+Welcome to the **HDB Flat Purchase Chatbot and Resale Price Dashboard**! This project aims to simplify the process of buying and selling HDB flats in Singapore by providing users with an interactive chatbot for instant guidance and a comprehensive dashboard for analyzing resale prices. Whether you’re a first-time buyer or a seasoned investor, the tools are designed to make your property journey smoother and more informed.
 """)
 
 # Project Scope
@@ -21,7 +21,7 @@ This project consists of two primary components:
 
 2. **Resale Price Dashboard**: A visual analytics dashboard that allows users to explore historical resale prices of HDB flats, filter data by town and year, and visualize trends through various graphs.
 
-Our goal is to provide a user-friendly experience that empowers users with the knowledge they need to make informed decisions in the HDB market.
+My goal is to provide a user-friendly experience that empowers users with the knowledge they need to make informed decisions in the HDB market.
 """)
 
 # Objectives
@@ -38,11 +38,11 @@ st.write("""
 # Data Sources
 st.header("Data Sources")
 st.write("""
-Our application utilizes a variety of data sources to ensure the accuracy and relevance of the information provided:
+This application utilizes a variety of data sources to ensure the accuracy and relevance of the information provided:
 
 - **HDB Website**: Served as the official source to provide updated information. For each query submitted, the chatbot will refer to the website for the updated information.
          
-- **HDB Resale Price Data**: Sourced from official government datasets, our resale price dashboard uses up-to-date historical data to offer insights on market trends since January 2017.
+- **HDB Resale Price Data**: Sourced from official government datasets, the resale price dashboard uses up-to-date historical data to offer insights on market trends since January 2017.
 
 - **User Input**: The chatbot utilizes a sophisticated natural language processing model that learns from user interactions, improving its responses over time.
 """)
@@ -73,7 +73,7 @@ st.write("""
 # Conclusion
 st.header("Conclusion")
 st.write("""
-By combining an intuitive chatbot with a powerful data visualization dashboard, we aim to support buyers and sellers in their journey through the HDB market. We invite you to explore our tools and welcome any feedback that can help us improve!
+By combining an intuitive chatbot with a powerful data visualization dashboard, it aims to support buyers and sellers in their journey through the HDB market. I invite you to explore the tools and welcome any feedback that can help me improve!
 
-Thank you for visiting our project!
+Thank you for visiting my project!
 """)

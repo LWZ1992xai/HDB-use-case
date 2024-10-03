@@ -9,7 +9,7 @@ with st.sidebar:
 # Introduction
 st.header("Introduction")
 st.write("""
-This methodology page provides a comprehensive explanation of the data flows and implementation details of the HDB Flat Purchase Chatbot and Resale Price Dashboard. Our application aims to assist users in navigating the HDB property market through an interactive chatbot and a dynamic data dashboard.
+This methodology page provides a comprehensive explanation of the data flows and implementation details of the HDB Flat Purchase Chatbot and Resale Price Dashboard. This application aims to assist users in navigating the HDB property market through an interactive chatbot and a dynamic data dashboard.
 """)
 
 # Data Flows and Implementation Details
